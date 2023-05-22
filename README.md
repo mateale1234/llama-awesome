@@ -145,6 +145,20 @@ Dynamic Character is an extention for the text-generation-webui app authored by 
 
 https://github.com/4a50/dynamicCharacter
 
+
 ## Llama.cpp 
+
+## Bark 
+
+Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. To support the research community, we are providing access to pretrained model checkpoints, which are ready for inference and available for commercial use.
+
+### BARK INFINITY 
+https://github.com/JonathanFly/bark
+
+### Voice cloning in Bark 
+Text-prompted Generative Audio Model - With the ability to clone voices - https://github.com/serp-ai/bark-with-voice-clone
+
+### TTS advence webui
+https://github.com/rsxdalv/tts-generation-webui
 
 
